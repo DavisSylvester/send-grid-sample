@@ -1,0 +1,16 @@
+{
+  "name": "send-grid-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Davis Sylvester III <davis@sylvesterllc.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "dotenv": "^16.0.3"
+  }
+}
